@@ -1,1 +1,2 @@
 "this is fileB" 
+"this is second file"
